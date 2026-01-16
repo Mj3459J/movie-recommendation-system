@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+
+# >100mb.
+similarity.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
